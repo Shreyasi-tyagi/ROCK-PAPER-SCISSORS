@@ -18,7 +18,7 @@ Play against the computer and see who wins!
 1. Open `front.html` in your browser.  
 2. Click on Rock, Paper, or Scissors to make your move.  
 3. Watch the computer's choice and the result message.  
-4. Scores update automatically.  
+4. Scores update automatically..
 
 ---
 
